@@ -1,0 +1,7 @@
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/CMakeFiles/Entorno_de_desarrollo_y_archivo_CMakeLists_txt.dir
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/CMakeFiles/funciones.dir
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/nicol/CLionProjects/Entorno de desarrollo y archivo CMakeLists.txt/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
